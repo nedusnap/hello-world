@@ -1,2 +1,4 @@
 # hello-world
-my first on git
+hi i'm godfrey chinedu 
+i'm an enthusiastic newbie in tech
+i like football
